@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Permananet Address</name>
+   <tag></tag>
+   <elementGuidId>bf75d974-7bc8-4fa7-94e4-b6fdff93a7ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.border.col-md-12.col-sm-12 > #permanentAddress</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='permanentAddress']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>1073c90d-143e-4a10-857e-29cf01030aca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>permanentAddress</value>
+      <webElementGuid>512a157e-e25c-4a5b-88a7-8738332b6c65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-1</value>
+      <webElementGuid>1e0f9179-231a-4355-8e20-c2eb6789f3fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Permananet Address :daew</value>
+      <webElementGuid>84f14a62-51c8-4abd-94d9-8b272ee831c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;output&quot;)/div[@class=&quot;border col-md-12 col-sm-12&quot;]/p[@id=&quot;permanentAddress&quot;]</value>
+      <webElementGuid>e35d2f93-e477-4b45-94da-22833a2eea93</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='permanentAddress']</value>
+      <webElementGuid>d71d7aab-abe8-45f6-ab7a-04dca7b97f54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='output']/div/p[4]</value>
+      <webElementGuid>8800d473-27dc-4300-8bea-e6dcddc8f056</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[4]</value>
+      <webElementGuid>5d8b2d01-5a6b-4726-9546-db5a7ed1326d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'permanentAddress' and (text() = 'Permananet Address :daew' or . = 'Permananet Address :daew')]</value>
+      <webElementGuid>a098ae2d-796e-428c-b94f-b7c517c0f5ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

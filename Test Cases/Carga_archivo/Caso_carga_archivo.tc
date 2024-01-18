@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Caso_carga_archivo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>44b6faa8-0828-4f77-a241-6dbf820a9012</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9310c6c0-9e4a-4e4c-b39e-521fe12009d3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>3</defaultValue>
+      <description>Delay</description>
+      <id>9310c6c0-9e4a-4e4c-b39e-521fe12009d3</id>
+      <masked>false</masked>
+      <name>Tiempo</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,34 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Integracion,Chrome 120.0.0.0,,,17-01-2024 17:47:44,17-01-2024 17:48:08,"24,957s",PASSED
+,,,,,,,
+Test Cases/Prueba_1/Caso_1,Chrome 120.0.0.0,,,17-01-2024 17:47:44,17-01-2024 17:47:57,"13,432s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,17-01-2024 17:47:44,17-01-2024 17:47:47,"2,450s",PASSED
+"navigateToUrl(""https://demoqa.com/"")",Chrome 120.0.0.0,,,17-01-2024 17:47:47,17-01-2024 17:47:49,"2,355s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,17-01-2024 17:47:49,17-01-2024 17:47:49,"0,337s",PASSED
+"click(findTestObject(""Object Repository/Caso_1/Page_DEMOQA/div_card-up""))",Chrome 120.0.0.0,,,17-01-2024 17:47:49,17-01-2024 17:47:51,"1,260s",PASSED
+"click(findTestObject(""Object Repository/Caso_1/Page_DEMOQA/span_Text Box""))",Chrome 120.0.0.0,,,17-01-2024 17:47:51,17-01-2024 17:47:52,"1,851s",PASSED
+"click(findTestObject(""Object Repository/Caso_1/Page_DEMOQA/inputuserName""))",Chrome 120.0.0.0,,,17-01-2024 17:47:52,17-01-2024 17:47:53,"0,711s",PASSED
+"setText(findTestObject(""Object Repository/Caso_1/Page_DEMOQA/inputuserName""), ""Daniela"")",Chrome 120.0.0.0,,,17-01-2024 17:47:53,17-01-2024 17:47:54,"0,835s",PASSED
+"setText(findTestObject(""Object Repository/Caso_1/Page_DEMOQA/inputuserEmail""), ""daniela@gmail.com"")",Chrome 120.0.0.0,,,17-01-2024 17:47:54,17-01-2024 17:47:55,"0,740s",PASSED
+"setText(findTestObject(""Object Repository/Caso_1/Page_DEMOQA/textareacurrentAddress""), ""españa"")",Chrome 120.0.0.0,,,17-01-2024 17:47:55,17-01-2024 17:47:56,"0,921s",PASSED
+"setText(findTestObject(""Object Repository/Caso_1/Page_DEMOQA/textareapermanentAddress""), ""galicia"")",Chrome 120.0.0.0,,,17-01-2024 17:47:56,17-01-2024 17:47:56,"0,687s",PASSED
+"scrollToPosition(0, 120)",Chrome 120.0.0.0,,,17-01-2024 17:47:56,17-01-2024 17:47:56,"0,054s",PASSED
+"click(findTestObject(""Object Repository/Caso_1/Page_DEMOQA/button_Submit""))",Chrome 120.0.0.0,,,17-01-2024 17:47:56,17-01-2024 17:47:57,"0,401s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,17-01-2024 17:47:57,17-01-2024 17:47:57,"0,477s",PASSED
+,,,,,,,
+Test Cases/Prueba_1/Caso_2,Chrome 120.0.0.0,,,17-01-2024 17:47:57,17-01-2024 17:48:08,"11,201s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,17-01-2024 17:47:57,17-01-2024 17:47:59,"1,156s",PASSED
+"navigateToUrl(""https://demoqa.com/"")",Chrome 120.0.0.0,,,17-01-2024 17:47:59,17-01-2024 17:48:01,"1,923s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,17-01-2024 17:48:01,17-01-2024 17:48:01,"0,215s",PASSED
+"click(findTestObject(""Object Repository/Caso_2/Page_DEMOQA/div_card-up""))",Chrome 120.0.0.0,,,17-01-2024 17:48:01,17-01-2024 17:48:02,"1,186s",PASSED
+"click(findTestObject(""Object Repository/Caso_2/Page_DEMOQA/span_Text Box""))",Chrome 120.0.0.0,,,17-01-2024 17:48:02,17-01-2024 17:48:03,"1,291s",PASSED
+"setText(findTestObject(""Object Repository/Caso_2/Page_DEMOQA/inputuserName""), ""Daniela"")",Chrome 120.0.0.0,,,17-01-2024 17:48:03,17-01-2024 17:48:04,"0,866s",PASSED
+"setText(findTestObject(""Object Repository/Caso_2/Page_DEMOQA/inputuserEmail""), ""daniela@gmail.com"")",Chrome 120.0.0.0,,,17-01-2024 17:48:04,17-01-2024 17:48:05,"0,715s",PASSED
+"setText(findTestObject(""Object Repository/Caso_2/Page_DEMOQA/textareacurrentAddress""), ""coruña"")",Chrome 120.0.0.0,,,17-01-2024 17:48:05,17-01-2024 17:48:06,"0,735s",PASSED
+"setText(findTestObject(""Object Repository/Caso_2/Page_DEMOQA/textareapermanentAddress""), ""galicia"")",Chrome 120.0.0.0,,,17-01-2024 17:48:06,17-01-2024 17:48:06,"0,691s",PASSED
+"scrollToPosition(0, 120)",Chrome 120.0.0.0,,,17-01-2024 17:48:06,17-01-2024 17:48:06,"0,018s",PASSED
+"click(findTestObject(""Object Repository/Caso_2/Page_DEMOQA/button_Submit""))",Chrome 120.0.0.0,,,17-01-2024 17:48:06,17-01-2024 17:48:07,"0,399s",PASSED
+"click(findTestObject(""Object Repository/Caso_2/Page_DEMOQA/div_Text Box""))",Chrome 120.0.0.0,,,17-01-2024 17:48:07,17-01-2024 17:48:07,"0,500s",PASSED
+"rightClick(findTestObject(""Caso_2/Page_DEMOQA/div_Text Box""))",Chrome 120.0.0.0,,,17-01-2024 17:48:07,17-01-2024 17:48:08,"0,496s",PASSED
+"verifyElementText(findTestObject(""Caso_2/Page_DEMOQA/div_Text Box""), ""Text Box"")",Chrome 120.0.0.0,,,17-01-2024 17:48:08,17-01-2024 17:48:08,"0,357s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,17-01-2024 17:48:08,17-01-2024 17:48:08,"0,458s",PASSED

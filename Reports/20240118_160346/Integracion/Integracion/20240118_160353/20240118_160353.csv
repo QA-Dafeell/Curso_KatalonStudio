@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Integracion,Chrome 120.0.0.0,,,18-01-2024 16:04:03,18-01-2024 16:04:51,"48,352s",FAILED
+,,,,,,,
+Test Cases/Prueba_1/Caso_1,Chrome 120.0.0.0,,,18-01-2024 16:04:03,18-01-2024 16:04:51,"48,088s",FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,18-01-2024 16:04:03,18-01-2024 16:04:08,"4,501s",PASSED
+"navigateToUrl(""https://demoqa.com/"")",Chrome 120.0.0.0,,,18-01-2024 16:04:08,18-01-2024 16:04:08,"0,388s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,18-01-2024 16:04:08,18-01-2024 16:04:10,"1,508s",PASSED
+"click(findTestObject(""Object Repository/Caso_1/Page_DEMOQA/div_card-up""))",Chrome 120.0.0.0,,,18-01-2024 16:04:10,18-01-2024 16:04:11,"1,090s",PASSED
+"click(findTestObject(""Object Repository/Caso_1/Page_DEMOQA/span_Text Box""))",Chrome 120.0.0.0,,,18-01-2024 16:04:11,18-01-2024 16:04:12,"1,525s",PASSED
+"click(findTestObject(""Object Repository/Caso_1/Page_DEMOQA/inputuserName""))",Chrome 120.0.0.0,,,18-01-2024 16:04:12,18-01-2024 16:04:13,"0,552s",PASSED
+"setText(findTestObject(""Object Repository/Caso_1/Page_DEMOQA/inputuserName""), ""Daniela"")",Chrome 120.0.0.0,,,18-01-2024 16:04:13,18-01-2024 16:04:14,"1,508s",PASSED
+"setText(findTestObject(""Object Repository/Caso_1/Page_DEMOQA/inputuserEmail""), ""daniela@gmail.com"")",Chrome 120.0.0.0,,,18-01-2024 16:04:14,18-01-2024 16:04:16,"1,635s",PASSED
+"setText(findTestObject(""Object Repository/Caso_1/Page_DEMOQA/textareacurrentAddress""), ""espaÃ±a"")",Chrome 120.0.0.0,,,18-01-2024 16:04:16,18-01-2024 16:04:17,"0,765s",PASSED
+"setText(findTestObject(""Object Repository/Caso_1/Page_DEMOQA/textareapermanentAddress""), ""galicia"")",Chrome 120.0.0.0,,,18-01-2024 16:04:17,18-01-2024 16:04:18,"0,802s",PASSED
+"scrollToPosition(0, 120)",Chrome 120.0.0.0,,,18-01-2024 16:04:18,18-01-2024 16:04:18,"0,063s",PASSED
+"click(findTestObject(""Object Repository/Caso_1/Page_DEMOQA/button_Submit""))",Chrome 120.0.0.0,,,18-01-2024 16:04:18,18-01-2024 16:04:51,"33,228s",FAILED

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Caso_drive_MySQL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>800f499b-2c98-4287-bb66-5aa919e2a700</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6acb9469-cd8b-4b78-9d24-00863e9ab4d5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>883ca436-9702-421b-9743-dfe0228eb309</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b81b0562-4a19-4ba1-9ab7-ee2f35c69248</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'dani'</defaultValue>
+      <description></description>
+      <id>6acb9469-cd8b-4b78-9d24-00863e9ab4d5</id>
+      <masked>false</masked>
+      <name>nombre</name>
+   </variable>
+   <variable>
+      <defaultValue>'dan'</defaultValue>
+      <description></description>
+      <id>883ca436-9702-421b-9743-dfe0228eb309</id>
+      <masked>false</masked>
+      <name>apellido</name>
+   </variable>
+   <variable>
+      <defaultValue>'dan@gmail.com'</defaultValue>
+      <description></description>
+      <id>b81b0562-4a19-4ba1-9ab7-ee2f35c69248</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Caso_check_box</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>37d80e8b-331b-4096-9b6e-d80275bba7b0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d40442f7-c204-421b-a327-783e80f61a41</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>3</defaultValue>
+      <description></description>
+      <id>d40442f7-c204-421b-a327-783e80f61a41</id>
+      <masked>false</masked>
+      <name>tiempo</name>
+   </variable>
+</TestCaseEntity>

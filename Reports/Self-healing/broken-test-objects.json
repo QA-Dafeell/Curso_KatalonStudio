@@ -1,0 +1,34 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Reto_1/Page_DEMOQA/svg_rct-icon rct-icon-uncheck",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "svg.rct-icon.rct-icon-uncheck",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Reto_1/Page_DEMOQA/svg_rct-icon rct-icon-uncheck_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Reto_1/Page_DEMOQA/path",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "svg.rct-icon.rct-icon-expand-close \u003e path",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Reto_1/Page_DEMOQA/path_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Reto_validaciones/extras/Page_DEMOQA/inputlastName",
+      "brokenLocator": "C:\\KATALON\\Proyectos\\Proyecto_uno\\Object Repository\\Reto_validaciones\\imagenes\\apellido.png",
+      "brokenLocatorMethod": "IMAGE",
+      "proposedLocator": "//input[@id\u003d\u0027lastName\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Reto_validaciones/extras/Page_DEMOQA/inputlastName_XPATH.png"
+    }
+  ]
+}

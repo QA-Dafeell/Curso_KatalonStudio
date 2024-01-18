@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>elseIf</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>244e1b8c-bcd4-4a7e-b3e3-f5db92af99b2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6d406a93-243b-4378-bb83-6091cc0d344e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>5</defaultValue>
+      <description></description>
+      <id>6d406a93-243b-4378-bb83-6091cc0d344e</id>
+      <masked>false</masked>
+      <name>num</name>
+   </variable>
+</TestCaseEntity>

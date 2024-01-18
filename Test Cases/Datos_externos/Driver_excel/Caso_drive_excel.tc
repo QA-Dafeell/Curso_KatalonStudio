@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Caso_drive_excel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>31595965-929e-400d-aded-5f1d3fbaedbb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>495ef52c-ca78-4cb7-88ad-cc1b8d58df3e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>34cd10da-889b-45f6-88d6-e0a4fe564e78</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>675ad423-2a18-408c-943f-5959b81797f3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'dani'</defaultValue>
+      <description></description>
+      <id>495ef52c-ca78-4cb7-88ad-cc1b8d58df3e</id>
+      <masked>false</masked>
+      <name>nombre</name>
+   </variable>
+   <variable>
+      <defaultValue>'dan'</defaultValue>
+      <description></description>
+      <id>34cd10da-889b-45f6-88d6-e0a4fe564e78</id>
+      <masked>false</masked>
+      <name>apellido</name>
+   </variable>
+   <variable>
+      <defaultValue>'dan@gmail.com'</defaultValue>
+      <description></description>
+      <id>675ad423-2a18-408c-943f-5959b81797f3</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

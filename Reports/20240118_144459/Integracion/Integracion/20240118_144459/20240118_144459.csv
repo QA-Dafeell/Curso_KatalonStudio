@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Integracion,Chrome 120.0.0.0,,,18-01-2024 14:45:16,18-01-2024 14:45:33,"16,926s",PASSED
+,,,,,,,
+Test Cases/Prueba_1/Caso_1,Chrome 120.0.0.0,,,18-01-2024 14:45:16,18-01-2024 14:45:33,"16,610s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,18-01-2024 14:45:17,18-01-2024 14:45:20,"3,311s",PASSED
+"navigateToUrl(""https://demoqa.com/"")",Chrome 120.0.0.0,,,18-01-2024 14:45:20,18-01-2024 14:45:23,"3,417s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,18-01-2024 14:45:23,18-01-2024 14:45:24,"0,268s",PASSED
+"click(findTestObject(""Object Repository/Caso_1/Page_DEMOQA/div_card-up""))",Chrome 120.0.0.0,,,18-01-2024 14:45:24,18-01-2024 14:45:26,"2,183s",PASSED
+"click(findTestObject(""Object Repository/Caso_1/Page_DEMOQA/span_Text Box""))",Chrome 120.0.0.0,,,18-01-2024 14:45:26,18-01-2024 14:45:27,"1,527s",PASSED
+"click(findTestObject(""Object Repository/Caso_1/Page_DEMOQA/inputuserName""))",Chrome 120.0.0.0,,,18-01-2024 14:45:27,18-01-2024 14:45:28,"1,020s",PASSED
+"setText(findTestObject(""Object Repository/Caso_1/Page_DEMOQA/inputuserName""), ""Daniela"")",Chrome 120.0.0.0,,,18-01-2024 14:45:28,18-01-2024 14:45:29,"0,949s",PASSED
+"setText(findTestObject(""Object Repository/Caso_1/Page_DEMOQA/inputuserEmail""), ""daniela@gmail.com"")",Chrome 120.0.0.0,,,18-01-2024 14:45:29,18-01-2024 14:45:30,"0,759s",PASSED
+"setText(findTestObject(""Object Repository/Caso_1/Page_DEMOQA/textareacurrentAddress""), ""españa"")",Chrome 120.0.0.0,,,18-01-2024 14:45:30,18-01-2024 14:45:31,"0,648s",PASSED
+"setText(findTestObject(""Object Repository/Caso_1/Page_DEMOQA/textareapermanentAddress""), ""galicia"")",Chrome 120.0.0.0,,,18-01-2024 14:45:31,18-01-2024 14:45:31,"0,753s",PASSED
+"scrollToPosition(0, 120)",Chrome 120.0.0.0,,,18-01-2024 14:45:31,18-01-2024 14:45:32,"0,114s",PASSED
+"click(findTestObject(""Object Repository/Caso_1/Page_DEMOQA/button_Submit""))",Chrome 120.0.0.0,,,18-01-2024 14:45:32,18-01-2024 14:45:32,"0,534s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,18-01-2024 14:45:32,18-01-2024 14:45:33,"0,639s",PASSED

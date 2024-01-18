@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>String</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>40a58cae-8fc5-40a4-8b91-a5d21f8d9149</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>82fbc161-1c3f-41f8-ac11-91edb08c1081</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Emma'</defaultValue>
+      <description></description>
+      <id>82fbc161-1c3f-41f8-ac11-91edb08c1081</id>
+      <masked>false</masked>
+      <name>nombre</name>
+   </variable>
+</TestCaseEntity>

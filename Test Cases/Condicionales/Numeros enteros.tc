@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Numeros enteros</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9391ea1b-34b3-4c63-b283-1ff26da8d3d9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ed4eee5c-1122-4688-88dc-5f8e42dce412</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>5</defaultValue>
+      <description></description>
+      <id>ed4eee5c-1122-4688-88dc-5f8e42dce412</id>
+      <masked>false</masked>
+      <name>num</name>
+   </variable>
+</TestCaseEntity>

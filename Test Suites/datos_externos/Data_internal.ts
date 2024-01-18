@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Data_internal</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>663bc88e-7618-44ca-ab99-61f8051b49ba</testSuiteGuid>
+   <testCaseLink>
+      <guid>59f92f94-b087-45e6-99c6-65a3b8b6d4dd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Datos_externos/Driver_internal/Caso_drive_intenal</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>dbf51f1b-15c4-4f49-a700-08a6ae0315f3</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data_interna/data_interna</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>14842bda-d076-46f1-b409-61ad75ec943d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>599a4a24-0b0d-425d-8c0d-d193498f9ed8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d7ec9d59-a5d5-409d-8bc9-faa58146e09c</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

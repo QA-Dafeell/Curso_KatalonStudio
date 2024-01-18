@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Island</name>
+   <tag></tag>
+   <elementGuidId>abcbd257-9d59-4080-a596-0d09ea7b78a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.rtOut.rtHover > div.rtIn > span.rtText</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_ContentPlaceholder1_RadTreeView1']/ul/li/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cb8458a8-5c8e-41b0-ac93-7ef8a47c9f22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rtText</value>
+      <webElementGuid>f050ee7a-12c4-487b-afcf-73b19b483aad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Island</value>
+      <webElementGuid>9ded5ac7-b062-4c25-9831-b9aa819e9927</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceholder1_RadTreeView1&quot;)/ul[@class=&quot;rtUL rtLines&quot;]/li[@class=&quot;rtLI rtFirst rtLast&quot;]/div[@class=&quot;rtOut rtHover&quot;]/div[@class=&quot;rtIn&quot;]/span[@class=&quot;rtText&quot;]</value>
+      <webElementGuid>15f3dea2-2d77-4522-a112-9d7f4b2f0a3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_ContentPlaceholder1_RadTreeView1']/ul/li/div/div/span</value>
+      <webElementGuid>0b12c0a7-e580-44cb-ae4a-5223ec9539d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/ul/li/div/div/span</value>
+      <webElementGuid>f8066e52-2bb3-448c-b7de-d14a1f9cb021</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Island' or . = 'Island')]</value>
+      <webElementGuid>5ed4a46c-a5a7-4a6d-84df-a29155a86f7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

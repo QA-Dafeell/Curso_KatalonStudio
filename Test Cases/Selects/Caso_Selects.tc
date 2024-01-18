@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>No se puede acceder a la pagina de ejemplo que utiliza en el curso</description>
+   <name>Caso_Selects</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c26c0621-d565-460f-a537-f8775fb4dd35</testCaseGuid>
+</TestCaseEntity>

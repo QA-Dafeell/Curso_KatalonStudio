@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "46B44F3466795AE524550DC4DA7B7DE9",
+  "keywordClasses": [
+    {
+      "name": "com.helper.openBrowser.AbrirNavegador",
+      "keywordMethods": [
+        {
+          "name": "OpenNavegador",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,70 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test_Suite_3,Chrome 120.0.0.0,,,12-01-2024 14:00:46,12-01-2024 14:03:20,"2m - 33,954s",PASSED
+,,,,,,,
+Test Cases/Reto_1/Reto_1,Chrome 120.0.0.0,,,12-01-2024 14:00:48,12-01-2024 14:01:28,"39,965s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,12-01-2024 14:00:49,12-01-2024 14:00:58,"9,157s",PASSED
+"navigateToUrl(""https://demoqa.com/"")",Chrome 120.0.0.0,,,12-01-2024 14:00:58,12-01-2024 14:01:04,"6,016s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,12-01-2024 14:01:04,12-01-2024 14:01:07,"2,559s",PASSED
+"click(findTestObject(""Object Repository/Reto_1/Page_DEMOQA/div_card-up""))",Chrome 120.0.0.0,,,12-01-2024 14:01:07,12-01-2024 14:01:10,"3,136s",PASSED
+"click(findTestObject(""Object Repository/Reto_1/Page_DEMOQA/span_Check Box""))",Chrome 120.0.0.0,,,12-01-2024 14:01:10,12-01-2024 14:01:12,"2,007s",PASSED
+"click(findTestObject(""Object Repository/Reto_1/Page_DEMOQA/span_rct-checkbox""))",Chrome 120.0.0.0,,,12-01-2024 14:01:12,12-01-2024 14:01:13,"1,628s",PASSED
+"click(findTestObject(""Object Repository/Reto_1/Page_DEMOQA/button_rct-collapse rct-collapse-btn""))",Chrome 120.0.0.0,,,12-01-2024 14:01:13,12-01-2024 14:01:14,"0,860s",PASSED
+"click(findTestObject(""Object Repository/Reto_1/Page_DEMOQA/span_Radio Button""))",Chrome 120.0.0.0,,,12-01-2024 14:01:14,12-01-2024 14:01:16,"1,841s",PASSED
+"click(findTestObject(""Object Repository/Reto_1/Page_DEMOQA/label_Yes""))",Chrome 120.0.0.0,,,12-01-2024 14:01:16,12-01-2024 14:01:17,"0,632s",PASSED
+"click(findTestObject(""Object Repository/Reto_1/Page_DEMOQA/label_Impressive""))",Chrome 120.0.0.0,,,12-01-2024 14:01:17,12-01-2024 14:01:18,"0,788s",PASSED
+"click(findTestObject(""Object Repository/Reto_1/Page_DEMOQA/div_Radio Button""))",Chrome 120.0.0.0,,,12-01-2024 14:01:18,12-01-2024 14:01:18,"0,850s",PASSED
+"verifyElementVisible(findTestObject(""Reto_1/Page_DEMOQA/div_Radio Button""))",Chrome 120.0.0.0,,,12-01-2024 14:01:18,12-01-2024 14:01:19,"0,929s",PASSED
+"verifyElementText(findTestObject(""Reto_1/Page_DEMOQA/div_Radio Button""), ""Radio Button"")",Chrome 120.0.0.0,,,12-01-2024 14:01:19,12-01-2024 14:01:21,"1,317s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,12-01-2024 14:01:21,12-01-2024 14:01:28,"6,811s",PASSED
+,,,,,,,
+Test Cases/Reto_obj_xpath/Caso_reto_xpath,Chrome 120.0.0.0,,,12-01-2024 14:01:28,12-01-2024 14:02:03,"35,940s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,12-01-2024 14:01:28,12-01-2024 14:01:31,"3,417s",PASSED
+"navigateToUrl(""https://demoqa.com/automation-practice-form"")",Chrome 120.0.0.0,,,12-01-2024 14:01:31,12-01-2024 14:01:38,"6,456s",PASSED
+"setViewPortSize(200, 900)",Chrome 120.0.0.0,,,12-01-2024 14:01:38,12-01-2024 14:01:41,"3,428s",PASSED
+"setText(findTestObject(""Reto_obj_xpath/First_name""), ""Daniela"")",Chrome 120.0.0.0,,,12-01-2024 14:01:41,12-01-2024 14:01:43,"1,889s",PASSED
+"setText(findTestObject(""Reto_obj_xpath/Last_name""), ""Feliciano"")",Chrome 120.0.0.0,,,12-01-2024 14:01:43,12-01-2024 14:01:45,"1,483s",PASSED
+"setText(findTestObject(""Reto_obj_xpath/email""), ""daniela@gmail.com"")",Chrome 120.0.0.0,,,12-01-2024 14:01:45,12-01-2024 14:01:46,"1,677s",PASSED
+"check(findTestObject(""Reto_obj_xpath/Famele""))",Chrome 120.0.0.0,,,12-01-2024 14:01:46,12-01-2024 14:01:47,"0,804s",PASSED
+delay(2),Chrome 120.0.0.0,,,12-01-2024 14:01:47,12-01-2024 14:01:49,"2,108s",PASSED
+"scrollToElement(findTestObject(""Reto_obj_xpath/sumit""), 2)",Chrome 120.0.0.0,,,12-01-2024 14:01:49,12-01-2024 14:01:51,"1,689s",PASSED
+delay(3),Chrome 120.0.0.0,,,12-01-2024 14:01:51,12-01-2024 14:01:54,"3,021s",PASSED
+"click(findTestObject(""Reto_obj_xpath/sumit""))",Chrome 120.0.0.0,,,12-01-2024 14:01:54,12-01-2024 14:01:58,"4,204s",PASSED
+delay(3),Chrome 120.0.0.0,,,12-01-2024 14:01:58,12-01-2024 14:02:01,"3,012s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,12-01-2024 14:02:01,12-01-2024 14:02:03,"2,421s",PASSED
+,,,,,,,
+Test Cases/Reto_select/Caso_reto_select,Chrome 120.0.0.0,,,12-01-2024 14:02:04,12-01-2024 14:02:46,"42,376s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,12-01-2024 14:02:04,12-01-2024 14:02:06,"2,574s",PASSED
+"navigateToUrl(""https://testsheepnz.github.io/BasicCalculator.html"")",Chrome 120.0.0.0,,,12-01-2024 14:02:06,12-01-2024 14:02:09,"2,598s",PASSED
+"scrollToElement(findTestObject(""Reto_select/campo_1""), 0)",Chrome 120.0.0.0,,,12-01-2024 14:02:09,12-01-2024 14:02:10,"0,651s",PASSED
+"setText(findTestObject(""Reto_select/campo_1""), ""10"")",Chrome 120.0.0.0,,,12-01-2024 14:02:10,12-01-2024 14:02:13,"3,391s",PASSED
+"setText(findTestObject(""Reto_select/campo_2""), ""5"")",Chrome 120.0.0.0,,,12-01-2024 14:02:13,12-01-2024 14:02:18,"4,633s",PASSED
+"selectOptionByLabel(findTestObject(""Reto_select/select""), ""Multiply"", false)",Chrome 120.0.0.0,,,12-01-2024 14:02:18,12-01-2024 14:02:21,"3,054s",PASSED
+"click(findTestObject(""Reto_select/calculate""))",Chrome 120.0.0.0,,,12-01-2024 14:02:21,12-01-2024 14:02:22,"1,419s",PASSED
+delay(3),Chrome 120.0.0.0,,,12-01-2024 14:02:22,12-01-2024 14:02:25,"3,011s",PASSED
+"click(findTestObject(""Reto_select/clear""))",Chrome 120.0.0.0,,,12-01-2024 14:02:25,12-01-2024 14:02:27,"2,114s",PASSED
+"setText(findTestObject(""Reto_select/campo_1""), ""50"")",Chrome 120.0.0.0,,,12-01-2024 14:02:27,12-01-2024 14:02:30,"2,718s",PASSED
+"setText(findTestObject(""Reto_select/campo_2""), ""5"")",Chrome 120.0.0.0,,,12-01-2024 14:02:30,12-01-2024 14:02:33,"2,567s",PASSED
+"selectOptionByLabel(findTestObject(""Reto_select/select""), ""Divide"", false)",Chrome 120.0.0.0,,,12-01-2024 14:02:33,12-01-2024 14:02:34,"1,199s",PASSED
+"click(findTestObject(""Reto_select/calculate""))",Chrome 120.0.0.0,,,12-01-2024 14:02:34,12-01-2024 14:02:34,"0,537s",PASSED
+delay(3),Chrome 120.0.0.0,,,12-01-2024 14:02:34,12-01-2024 14:02:37,"3,016s",PASSED
+"click(findTestObject(""Reto_select/clear""))",Chrome 120.0.0.0,,,12-01-2024 14:02:37,12-01-2024 14:02:39,"2,032s",PASSED
+delay(3),Chrome 120.0.0.0,,,12-01-2024 14:02:39,12-01-2024 14:02:42,"3,009s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,12-01-2024 14:02:42,12-01-2024 14:02:46,"3,583s",PASSED
+,,,,,,,
+Test Cases/Reto_spy_web_1/Caso_reto_spy_web,Chrome 120.0.0.0,,,12-01-2024 14:02:46,12-01-2024 14:03:20,"34,174s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,12-01-2024 14:02:46,12-01-2024 14:02:52,"5,792s",PASSED
+"navigateToUrl(""http://opencart.abstracta.us"")",Chrome 120.0.0.0,,,12-01-2024 14:02:52,12-01-2024 14:02:56,"3,838s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,12-01-2024 14:02:56,12-01-2024 14:02:56,"0,536s",PASSED
+"scrollToPosition(0, 150)",Chrome 120.0.0.0,,,12-01-2024 14:02:56,12-01-2024 14:02:57,"0,125s",PASSED
+"click(findTestObject(""Reto_Spy_web_1/Page_Your Store/a_MacBook""))",Chrome 120.0.0.0,,,12-01-2024 14:02:57,12-01-2024 14:02:59,"2,728s",PASSED
+"click(findTestObject(""Reto_Spy_web_1/Page_MacBook/img""))",Chrome 120.0.0.0,,,12-01-2024 14:02:59,12-01-2024 14:03:01,"1,608s",PASSED
+"click(findTestObject(""Reto_Spy_web_1/Page_MacBook/button_""))",Chrome 120.0.0.0,,,12-01-2024 14:03:01,12-01-2024 14:03:04,"2,834s",PASSED
+"setText(findTestObject(""Reto_Spy_web_1/Page_MacBook/input_Qty_quantity""), ""3"")",Chrome 120.0.0.0,,,12-01-2024 14:03:04,12-01-2024 14:03:06,"2,618s",PASSED
+"click(findTestObject(""Reto_Spy_web_1/Page_MacBook/button_Add to Cart""))",Chrome 120.0.0.0,,,12-01-2024 14:03:06,12-01-2024 14:03:08,"1,286s",PASSED
+"click(findTestObject(""Reto_Spy_web_1/Page_MacBook/button_3 item(s) - 1,806.00""))",Chrome 120.0.0.0,,,12-01-2024 14:03:08,12-01-2024 14:03:09,"1,378s",PASSED
+"click(findTestObject(""Reto_Spy_web_1/Page_MacBook/strong_View Cart""))",Chrome 120.0.0.0,,,12-01-2024 14:03:09,12-01-2024 14:03:11,"1,693s",PASSED
+"click(findTestObject(""Reto_Spy_web_1/Page_Shopping Cart/a_Checkout""))",Chrome 120.0.0.0,,,12-01-2024 14:03:11,12-01-2024 14:03:14,"2,971s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,12-01-2024 14:03:14,12-01-2024 14:03:20,"6,372s",PASSED
+,,,,,,,
+Test Cases/Reto_test_script/Caso_test_script,Chrome 120.0.0.0,,,12-01-2024 14:03:20,12-01-2024 14:03:20,"0,223s",PASSED
+return null,Chrome 120.0.0.0,,,12-01-2024 14:03:20,12-01-2024 14:03:20,"0,001s",PASSED
